@@ -7,21 +7,6 @@
     <title>Proj-php</title>
 </head>
 <body>
-     <!--<  ?php para iniciar -->
-     <!-- ?> para finalizar php 
-
-    // $ para declarar variável
-    $x=5;
-    echo $x;
-    
-    if($x==5){
-        // . concatena ao invés de +
-        echo"<br>"."Ok";
-    }
-    else{
-        echo"<br>Errado";
-    }
-    ?> -->
 
     <?php
         $universo = "Marvel";
